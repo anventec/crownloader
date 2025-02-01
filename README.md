@@ -10,6 +10,6 @@ Then, you need to put both executables in a single folder, and that would be it.
 
 ## To-do
 
-[] Configurable paths
-[] Supporting chapters
-[] Option to select only audio, only video or both
+[ ] Configurable paths
+[ ] Supporting chapters
+[ ] Option to select only audio, only video or both
