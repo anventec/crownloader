@@ -46,8 +46,6 @@ const controller = new Controller(terminal);
 	const extended_info = await ytdl.getInfo(validated_url);
 	const video_id = ytdl.getVideoID(validated_url);
 
-	console.log(basic_info.videoDetails.chapters);
-
 	const temp_folder = path.resolve("temp");
 
 	if (!fs.existsSync(temp_folder)) fs.mkdirSync(temp_folder);
@@ -55,7 +53,7 @@ const controller = new Controller(terminal);
 	const details = basic_info.videoDetails;
 	const formats = extended_info.formats;
 
-	terminal.yellow("Ignore the warning above, the 4.15.4 version of @distube/ytdl-core is the only one that works to this day.");
+	//terminal.yellow("Ignore the warning above, the 4.15.4 version of @distube/ytdl-core is the only one that works to this day.");
 
 	terminal.green("\n\nData found!");
 
