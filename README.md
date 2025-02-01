@@ -1,6 +1,6 @@
 # Crownloader
 
-CLI for downloading YouTube videos at the quality you want! Works with normal and short videos, doesn't work with playlists, private videos, geo-restricted videos or videos from another platform.
+CLI for downloading YouTube videos at the quality you want! Works with long format videos and shorts, doesn't work with playlists, private videos, geo-restricted videos or videos from another platform.
 
 ## Installation
 
@@ -8,11 +8,28 @@ You need to go to the [releases page](https://github.com/anventec/crownloader/re
 
 Then, you need to put both executables in a single folder, and that would be it. Just open the Crownloader executable and begin to download!
 
+## Features
+
+- Command-line-interface-like interface
+- Selectable video and audio qualities
+- Customize where you want to save the video
+
+## Crownloader works for:
+
+- Long videos [like this](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
+- Short [like this](https://www.youtube.com/shorts/SXHMnicI6Pg)
+
+## Crownloader DOESN'T work for:
+
+- Playlists
+- Private videos
+- Geo-restricted videos
+
 ## To-do
 
-[ ] Configurable paths
-[ ] Supporting chapters
-[ ] Option to select only audio, only video or both
+- [ ] Configurable paths
+- [ ] Supporting chapters
+- [ ] Option to select only audio, only video or both
 
 ## Disclaimer
 
