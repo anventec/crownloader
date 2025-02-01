@@ -1,18 +1,29 @@
 {
   "name": "crownloader",
-  "bin": "index.js",
-  "pkg": {
-    "assets": "**",
-    "targets": [
-      "node22-win-x64"
-    ],
-    "ignore": [
-      "**/*.exe",
-      "**/*.zip",
-      "**/*.rar"
-    ],
-    "outputPath": "./packaged"
+  "version": "1.0.0",
+  "description": "CLI for downloading YouTube videos at the quality you want!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anventec/crownloader.git"
+  },
+  "keywords": [
+    "cli",
+    "youtube",
+    "download",
+    "youtube-dl",
+    "youtube-downloader",
+    "youtube-download"
+  ],
+  "author": "anventec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anventec/crownloader/issues"
+  },
+  "homepage": "https://github.com/anventec/crownloader#readme",
   "dependencies": {
     "@distube/ytdl-core": "^4.16.0",
     "axios": "^1.7.9",
@@ -22,6 +33,6 @@
     "path": "^0.12.7",
     "progress-stream": "^2.0.0",
     "sharp": "^0.33.5",
-    "terminal-kit": "^3.1.1"
+    "terminal-kit": "^3.1.2"
   }
 }
