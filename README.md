@@ -1,6 +1,6 @@
 # Crownloader
 
-CLI for downloading YouTube videos at the quality you want! Works with long format videos and shorts, doesn't work with playlists, private videos, geo-restricted videos or videos from another platform. Based on [@distube/ytdl-core](https://www.npmjs.com/package/@distube/ytdl-core)
+CLI for downloading YouTube videos at the quality you want! Works with long format videos and shorts, doesn't work with playlists, private videos, geo-restricted videos or videos from another platform. Based on [@distube/ytdl-core](https://www.npmjs.com/package/@distube/ytdl-core).
 
 ## Installation
 
