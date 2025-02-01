@@ -33,7 +33,7 @@ Then, you need to put both executables in a single folder, and that would be it.
 
 ## Disclaimer
 
-Crownloader will not be held responsible for what end users do with downloaded content.
-Crownloader do not own nor claim to own the rights to any of the content that end users can download.
-Crownloader is not associated in any way with YouTube or Google LLC.
-YouTube is a registered trademark of Google LLC.
+- Crownloader will not be held responsible for what end users do with downloaded content.
+- Crownloader do not own nor claim to own the rights to any of the content that end users can download.
+- Crownloader is not associated in any way with YouTube or Google LLC.
+- YouTube is a registered trademark of Google LLC.
