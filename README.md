@@ -1,6 +1,6 @@
 # Crownloader
 
-CLI for downloading YouTube videos at the quality you want!
+CLI for downloading YouTube videos at the quality you want! Works with normal and short videos, doesn't work with playlists, private videos, geo-restricted videos or videos from another platform.
 
 ## Installation
 
